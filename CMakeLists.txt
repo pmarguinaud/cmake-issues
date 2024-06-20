@@ -12,7 +12,7 @@ set_source_files_properties (
 add_library (
   IAL
   OBJECT
-  src/mse/module/modi_fmread.F90
   src/surfex/OFFLIN/mode_read_surf_lfi.F90
+  src/mse/module/modi_fmread.F90
 )
 

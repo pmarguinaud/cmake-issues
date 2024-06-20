@@ -1,6 +1,6 @@
 MODULE MODI_FMREAD
 
-REAL :: X, Y, Z, T
+REAL :: X, Y, Z, T, W
 
 CONTAINS
 
