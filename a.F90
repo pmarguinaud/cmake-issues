@@ -2,7 +2,7 @@ MODULE A
 
 CONTAINS
 
-#ifdef SFX_LFI
+#ifdef DEF
 
 SUBROUTINE RR
 

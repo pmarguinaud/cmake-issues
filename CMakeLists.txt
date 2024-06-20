@@ -6,11 +6,11 @@ set_source_files_properties (
   a.F90
   PROPERTIES
   COMPILE_DEFINITIONS
-  SFX_LFI
+  DEF
 )
 
 add_library (
-  IAL
+  AB
   OBJECT
   a.F90
   b.F90
